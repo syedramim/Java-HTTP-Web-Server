@@ -15,7 +15,7 @@ This project is a lightweight, multi-threaded HTTP web server written in Java. I
 ## Project Structure
 
 ```
-a5-sramim-main/
+Java-HTTP-Web-Server/
 ├── .gitignore
 ├── Makefile
 ├── README.md
